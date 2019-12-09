@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+}
+
+.guess-input {
+  padding: 10px 15px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.guess-btn {
+  padding: 10px;
+  border: 1px solid black;
+  font-size: 22px;
+}
+
+.min {
+  padding: 5px;
+  margin: 10px;
+  font-size: 16px;
+}
+
+.max {
+  padding: 5px;
+  margin: 10px;
+  font-size: 16px;
+}
